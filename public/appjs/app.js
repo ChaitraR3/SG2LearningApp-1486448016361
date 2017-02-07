@@ -1,0 +1,1 @@
+angular.module('qcApp',['ngRoute', 'appRoutes','FileUploadCtrl','angularFileUpload','ui.bootstrap']);
